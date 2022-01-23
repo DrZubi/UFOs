@@ -6,6 +6,12 @@ The project utilizes JavaScript, HTML, and CSS to build a dynamic webpage to dis
 ## Results
 Users can filter their search for UFO sightings by using the filter search bar. Users can filter data by any combinations of the search criteria: date, city, state, country, and shape. 
 
+![Image1](https://github.com/DrZubi/UFOs/blob/main/static/images/image1.PNG)
+
+![Image2](https://github.com/DrZubi/UFOs/blob/main/static/images/iamge2.PNG)
+
+
+
 ## Summary
 ### Webpage Drawbacks:
 There are a few drawbacks in the design of the webpage that need to be addressed: 
